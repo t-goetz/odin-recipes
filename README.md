@@ -1,4 +1,4 @@
-This will be a "basic recipe website",
+This will be a "basic recipe website,"
 fulfilling the requirements of the Odin Project
 "Foundations" course.
 
