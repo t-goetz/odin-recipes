@@ -1,0 +1,38 @@
+#index {
+  background-color: rgb(214, 205, 205);
+}
+
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 1000;
+  font-size: 50px;
+}
+
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+
+#index li {
+  font-size: 20px;
+}
+
+#kunde {
+  background-color: rgb(173, 94, 58);
+  color: rgb(87, 22, 22);
+}
+
+.subhead {
+  text-align: center;
+}
+
+#potato-bread {
+  background-color: lightblue;
+  color: darkblue;
+}
+
+#tomato-sauce {
+  background-color: darkred;
+  color: pink;
+}
