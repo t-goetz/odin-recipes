@@ -1,4 +1,4 @@
-#index {
+.index {
   background-color: rgb(214, 205, 205);
 }
 
@@ -15,11 +15,11 @@ h3 {
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 
-#index li {
+.index li {
   font-size: 20px;
 }
 
-#kunde {
+.kunde {
   background-color: rgb(173, 94, 58);
   color: rgb(87, 22, 22);
   font-family: "Open Sans";
@@ -29,12 +29,12 @@ h3 {
   text-align: center;
 }
 
-#potato-bread {
+.potato-bread {
   background-color: lightblue;
   color: darkblue;
 }
 
-#tomato-sauce {
+.tomato-sauce {
   background-color: darkred;
   color: pink;
 }
